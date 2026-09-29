@@ -1,0 +1,1 @@
+area_of_circle = lambda radius: 3.14 * radius ** 2 
