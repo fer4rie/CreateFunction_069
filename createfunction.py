@@ -5,3 +5,5 @@ def convert_temperature (value, unit):
         return (value - 32) * 5/9
     else:
         print("Unit harus 'C' atau 'F'")
+
+print("========== KONVERSI SUHU ==========") 
